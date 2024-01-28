@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NithiyaShekhar
+- 👋 Hi, I’m @Nithiya Gunashekhar
 - 👀 I’m interested in Software Developing
 - 🌱 I’m currently working as Associate Developer 
 - 💞️ I’m looking to collaborate on IT
