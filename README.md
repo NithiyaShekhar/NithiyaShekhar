@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NithiyaShekhar
 - 👀 I’m interested in Software Developing
-- 🌱 I’m currently learning Junior Full Stack JAVA Developer
+- 🌱 I’m currently working as Associate Developer 
 - 💞️ I’m looking to collaborate on IT
 - 📫 How to reach me ruthikayashika1914@gmail.com
 
